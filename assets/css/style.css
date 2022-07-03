@@ -1,0 +1,108 @@
+body {
+    background-color: var(--background);
+    color: #fff;
+    font: "Poppins", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    margin-top: 140px;
+}
+
+#title {
+    font-size: 35px;
+}
+#calc{
+    height: 50px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 30px;
+    color: #fff;
+    font: "Poppins", sans-serif;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: var(--background-calc);
+    border: none;
+}
+.container{
+    height: 300px;
+    width: 350px;
+}
+.numbers{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--background-numbers);
+    width: 400px;
+    height: 400px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.number{
+    height: 50px;
+    width: 80px;
+    transition: 0.2s;
+}
+
+.number:hover{
+    cursor: pointer;
+    background-color: rgb(209, 158, 19);
+}
+
+.expr:hover{
+    transition: 0.2s;
+    background-color: rgb(226, 92, 15);
+}
+
+button{
+    background-color: var(--rose);
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    margin: 5px;
+    height: 40px;
+    width: 80px;
+}
+
+#clean{
+    height: 50px;
+}
+
+#clean{
+    cursor: pointer;
+}
+
+#reset{
+    background-color: rgb(19, 139, 209);
+    transition: 0.2s;
+    height: 60px;
+    width: 120px;
+}
+
+#reset:hover{
+    cursor: pointer;
+    background-color: rgb(83, 190, 252);
+}
+
+#zero{
+    width:150px;
+}
+#result{
+    height: 60px;
+    width: 220px;
+    font-size: 50px;
+    background-color: var(--red-buttons);
+    transition: 0.2s;
+    border-radius: 5px;
+}
+
+#result:hover{
+    cursor: pointer;
+    background-color: rgb(253, 29, 29);
+}

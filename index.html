@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="./assets/css/reset.css">
+  <link rel="stylesheet" href="./assets/css/root.css">
+  <link rel="stylesheet" href="./assets/css/style.css">
+
+  <link rel="shortcut icon" href="./assets/img/calculator.png" type="image/x-icon">
+  <title>Calculator app</title>
+</head>
+
+<body>
+  <main>
+    <h1 id="title">Calculator</h1>
+    <p id="calc"></p>
+
+    <div class="container">
+      <div class="numbers">
+        <button class="number" onclick="insert('7')">7</button>
+        <button class="number" onclick="insert('8')">8</button>
+        <button class="number" onclick="insert('9')">9</button>
+        <button class="expr" id="clean" onclick="back()"><</button>
+        <button class="number" onclick="insert('4')">4</button>
+        <button class="number" onclick="insert('5')">5</button>
+        <button class="number" onclick="insert('6')">6</button>
+        <button class="number expr" onclick="insert('+')">+</button>
+        <button class="number" onclick="insert('1')">1</button>
+        <button class="number" onclick="insert('2')">2</button>
+        <button class="number" onclick="insert('3')">3</button>
+        <button class="number expr" onclick="insert('-')">-</button>
+        <button class="number" onclick="insert('0')">0</button>
+        <button class="number expr" onclick="insert('*')">*</button>
+        <button class="number expr" onclick="insert('/')">/</button>
+        <button class="number expr" onclick="insert('.')">.</button>
+        <button id="reset" onclick="clean('')">RESET</button>
+        <button id="result" onclick="calc()">=</button>
+      </div>
+    </div>
+  </main>
+  <script src="./assets/js/script.js"></script>
+</body>
+
+</html>
