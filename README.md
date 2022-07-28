@@ -30,5 +30,3 @@ function calc(){
 ```
 ## Resultado final:
 <img src="./assets/img/Print.png">
-
-# 
