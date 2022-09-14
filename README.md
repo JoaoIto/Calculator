@@ -1,6 +1,7 @@
-# Calculadora <img height="30" src="./assets/img/calculator.png">
+# [Calculator](https://joaoito.github.io/Calculator/) <img height="30" src="./assets/img/calculator.png">
 
 **Esse projeto de uma calculadora, feita em JS em que a função de todas as operações matemáticas!**
+
 Quando comecei esse projeto, tinha ideia de que o JS poderia ser bem difícil, mesmo assim percebi que era até bem simples, se baseando apenas numa função onClick para cada tecla da calculadora de base, e assim diferenciava somente para cada uma as teclas de: reset, back, e obviamente a de calcular, "=".
 
 ## Código JS:
