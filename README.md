@@ -2,10 +2,10 @@
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **To-do-List**
+| :sparkles: Nome        | **Calculator**
 | :label: Tecnologias | javascript, html, css, 
-| :rocket: URL         | https://github.com/JoaoIto/To-do-List
-| :fire: Desafio     | https://github.com/JoaoIto/To-do-List
+| :rocket: URL         | https://github.com/JoaoIto/Calculator
+| :fire: Desafio     | https://github.com/JoaoIto/Calculator
 
 <img src="./assets/img/Print.png#vitrinedev">
 
