@@ -1,5 +1,14 @@
 # [Calculator](https://joaoito.github.io/Calculator/) <img height="30" src="./assets/img/calculator.png">
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **To-do-List**
+| :label: Tecnologias | javascript, html, css, 
+| :rocket: URL         | https://github.com/JoaoIto/To-do-List
+| :fire: Desafio     | https://github.com/JoaoIto/To-do-List
+
+<img src="./assets/img/Print.png#vitrinedev">
+
 **Esse projeto de uma calculadora, feita em JS em que a função de todas as operações matemáticas!**
 
 Quando comecei esse projeto, tinha ideia de que o JS poderia ser bem difícil, mesmo assim percebi que era até bem simples, se baseando apenas numa função onClick para cada tecla da calculadora de base, e assim diferenciava somente para cada uma as teclas de: reset, back, e obviamente a de calcular, "=".
@@ -29,5 +38,3 @@ function calc(){
     };
 };
 ```
-## Resultado final:
-<img src="./assets/img/Print.png">
