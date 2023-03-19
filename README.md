@@ -11,7 +11,11 @@
 
 **Esse projeto de uma calculadora, feita em JS em que a função de todas as operações matemáticas!**
 
-Quando comecei esse projeto, tinha ideia de que o JS poderia ser bem difícil, mesmo assim percebi que era até bem simples, se baseando apenas numa função onClick para cada tecla da calculadora de base, e assim diferenciava somente para cada uma as teclas de: reset, back, e obviamente a de calcular, "=".
+Quando comecei esse projeto, tinha ideia de que o JS poderia ser bem difícil, mesmo assim percebi que era até bem simples, se baseando apenas numa função ```onClick``` para cada tecla da calculadora de base, e assim diferenciava somente para cada uma as teclas de: reset, back, e obviamente a de calcular, "=".
+
+Uma calculadora como essa é um projeto que é pensado e pode ser feito tranquilamente em Vanilla.js, já que as funções base da calculadora são comumente conhecidas e usadas em métodos prontos da linguagem se *JavaScript*.
+
+**Veja o código JS comentado:**
 
 ## Código JS:
 
