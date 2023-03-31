@@ -15,6 +15,7 @@ Quando comecei esse projeto, tinha ideia de que o JS poderia ser bem difícil, m
 
 Uma calculadora como essa é um projeto que é pensado e pode ser feito tranquilamente em Vanilla.js, já que as funções base da calculadora são comumente conhecidas e usadas em métodos prontos da linguagem se *JavaScript*.
 
+---
 **Veja o código JS comentado:**
 
 ## Código JS:
@@ -87,8 +88,6 @@ assert(document.getElementById("calc").innerHTML === "4", "Error: Calculation wa
 
 ```
 
-**
-
----These tests cover basic functionality of the calculator. More tests could be added to handle edge cases, such as division by zero or entering invalid characters. Additionally, it would be useful to test the behavior of the calculator when multiple operators are entered or when parentheses are used.**
+**These tests cover basic functionality of the calculator. More tests could be added to handle edge cases, such as division by zero or entering invalid characters. Additionally, it would be useful to test the behavior of the calculator when multiple operators are entered or when parentheses are used.**
 
 ---
