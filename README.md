@@ -1,4 +1,4 @@
-# [Calculator](https://joaoito.github.io/Calculator/) <img height="30" src="./assets/img/calculator.png">
+# [Calculator](https://calculator-33aicic47-joaoito.vercel.app/) <img height="30" src="./assets/img/calculator.png">
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
