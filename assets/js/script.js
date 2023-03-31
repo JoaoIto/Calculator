@@ -19,3 +19,4 @@ function calc(){
         document.getElementById("calc").innerHTML = eval(result)
     };
 };
+
